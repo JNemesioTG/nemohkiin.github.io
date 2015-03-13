@@ -6138,7 +6138,7 @@ th.hide-for-touch {
   th.show-for-print {
     display: table-cell !important; } }
 
-.fondo {
+/*.fondo {
   background: #0C3B99;
 }
 .titulo{
@@ -6146,4 +6146,4 @@ th.hide-for-touch {
 }
 .texto{
   color: #FFCC52;
-}
+}*/
