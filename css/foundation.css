@@ -6141,7 +6141,9 @@ th.hide-for-touch {
 .fondo{
   background-image: url("http://www.pulsarwallpapers.com/data/media/3/Alien%20Ink%202560X1600%20Abstract%20Background.jpg");
 }
-
+.texto{
+  font-size: 16px;
+}
 /*.fondo {
   background: #0C3B99;
 }
