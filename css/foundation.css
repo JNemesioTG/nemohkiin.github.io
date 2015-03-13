@@ -6143,7 +6143,10 @@ th.hide-for-touch {
 }
 .texto{
   font-size: 18px;
-  font-family: Broadway, Impact;
+}
+.titulo{
+  font-family: "Broadway", Impact;
+  font-style: italic;
 }
 /*.fondo {
   background: #0C3B99;
