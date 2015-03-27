@@ -6138,6 +6138,12 @@ th.hide-for-touch {
   th.show-for-print {
     display: table-cell !important; } }
 
-.pagina {
-  background: #fff8dc;
+.fondo {
+  background: #0C3B99;
+}
+.titulo{
+  color: #EB0858;
+}
+.texto{
+  color: #FFCC52;
 }
